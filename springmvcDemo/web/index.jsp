@@ -11,6 +11,9 @@
     <title>$Title$</title>
   </head>
   <body>
+
+  <%--I think git more better than svn --%>
+
   $END$
   </body>
 </html>
