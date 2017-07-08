@@ -18,7 +18,7 @@ public class Demo2 {
         System.out.println(flag);
     }
     public static void changeStatus(Persion p){
-        p = new Persion() ;
+        p = new Persion() ;//p的指针指向新的地址
         p.setUserName("B");
     }
     public static void changeBoolenStatus(boolean b){
