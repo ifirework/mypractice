@@ -1,0 +1,4 @@
+#java Ignore
+*.idea
+*.iml
+out
